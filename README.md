@@ -39,7 +39,7 @@ pip3 install -r requirements.txt
 Run the FindSAN tool from the command line with the following command:
 
 ```sh
-python findsan.py [options]
+python3 findsan.py [options]
 ```
 
 
